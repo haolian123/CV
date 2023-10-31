@@ -1,0 +1,7 @@
+宝石分类
+https://aistudio.baidu.com/aistudio/datasetdetail/55032
+美食分类
+https://aistudio.baidu.com/datasetdetail/42610
+中草药识别
+https://aistudio.baidu.com/aistudio/datasetdetail/55190
+https://aistudio.baidu.com/datasetdetail/55194
