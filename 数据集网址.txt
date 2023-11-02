@@ -7,3 +7,10 @@ https://aistudio.baidu.com/aistudio/datasetdetail/55190
 https://aistudio.baidu.com/datasetdetail/55194
 CIFAR10数据集
 https://aistudio.baidu.com/datasetdetail/157913
+PASCAL VOC数据集
+http://host.robots.ox.ac.uk/pascal/VOC/
+一阶段目标检测
+https://aistudio.baidu.com/aistudio/datasetdetail/32091
+https://aistudio.baidu.com/aistudio/datasetdetail/19638
+宠物图像分割
+https://aistudio.baidu.com/aistudio/datasetdetail/68468.
