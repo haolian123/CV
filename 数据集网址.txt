@@ -14,3 +14,5 @@ https://aistudio.baidu.com/aistudio/datasetdetail/32091
 https://aistudio.baidu.com/aistudio/datasetdetail/19638
 宠物图像分割
 https://aistudio.baidu.com/aistudio/datasetdetail/68468.
+宠物分割
+https://aistudio.baidu.com/datasetdetail/68468
